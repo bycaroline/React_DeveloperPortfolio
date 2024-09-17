@@ -29,6 +29,8 @@ const ProjectPageSurfNotification = () => {
                     <li><span><strong>Database</strong>: Users can subscribe/unsubscribe to the service.</span></li>
                     <li><span><strong>Email</strong>: Nodemail send email to the subscribers if the conditions are expected to be favorable.</span></li>
                 </ul>
+                <h4>demo</h4>
+                <p><a href='https://surfapp.onrender.com/' target="_blank" rel="noopener noreferrer">surfapp.onrender.com/</a></p>
                 <h4>code</h4>
                 <p><a href='https://github.com/bycaroline/SurfAppPublic' target="_blank" rel="noopener noreferrer">github.com/bycaroline/SurfAppPublic</a></p>
             </div>
