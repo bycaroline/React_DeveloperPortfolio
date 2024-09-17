@@ -32,6 +32,8 @@ const ProjectPageFamilyRecipes = () => {
                     <li><span><strong>Comments</strong>: Users can comment on each recipe</span></li>
                     <li><span><strong>Listing recipes</strong>: A list of all the recipes and by which user</span></li>
                 </ul>
+                <h4>demo</h4>
+                <p><a href='https://familyrecepies.onrender.com/' target="_blank" rel="noopener noreferrer">familyrecepies.onrender.com/</a></p>
                 <h4>code</h4>
                 <p><a href='https://github.com/bycaroline/MERNappServerRecepies' target="_blank" rel="noopener noreferrer">github.com/bycaroline/MERNappServerRecepies</a></p>
             </div>
