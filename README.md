@@ -1,3 +1,5 @@
 # Static developer portfolio
 
-# StaticDeveloperPortfolio
+This is a static version of my developer portfolio. It is created in React
+
+
