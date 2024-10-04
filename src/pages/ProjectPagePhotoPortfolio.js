@@ -28,7 +28,7 @@ const ProjectPagePhotoPortfolio = () => {
                     <li><span><strong>Email</strong>: Emails can be sent through a form with EmailJS.</span></li>
                 </ul>
                 <h4>demo</h4>
-                <p><a href='https://photography-portfolio-psi-five.vercel.app/' target="_blank" rel="noopener noreferrer">surfapp.onrender.com/</a></p>
+                <p><a href='https://photography-portfolio-psi-five.vercel.app/' target="_blank" rel="noopener noreferrer">https://photography-portfolio-psi-five.vercel.app/</a></p>
                 <h4>code</h4>
                 <p><a href='https://github.com/bycaroline/PhotographyPortfolioPublic' target="_blank" rel="noopener noreferrer">github.com/bycaroline/PhotographyPortfolioPublic</a></p>
             </div>
