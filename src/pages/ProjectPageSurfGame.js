@@ -27,6 +27,8 @@ const ProjectPageSurfGame = () => {
                     <li><span><strong>Random waves</strong>: Waves occur randomly.</span></li>
                     <li><span><strong>Obstacles</strong>: Other surfers in the lineup makes it more difficult to catch waves.</span></li>
                 </ul>
+                <h4>demo</h4>
+                <p><a href='https://surf-game.vercel.app/' target="_blank" rel="noopener noreferrer">https://surf-game.vercel.app/</a></p>
                 <h4>code</h4>
                 <p><a href='https://github.com/bycaroline/SurfGamePublic' target="_blank" rel="noopener noreferrer">github.com/bycaroline/SurfGamePublic</a></p>
             </div>
