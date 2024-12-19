@@ -9,6 +9,7 @@ import ProjectPageSurfNotification from './pages/ProjectPageSurfNotification';
 import ProjectPageFamilyRecipes from './pages/ProjectPageFamilyRecipes';
 import ProjectPagePhotoPortfolio from './pages/ProjectPagePhotoPortfolio';
 import ProjectPageSurfGame from './pages/ProjectPageSurfGame';
+import ProjectMachineLearning from './pages/ProjectMachineLearning';
 
 
 
@@ -19,6 +20,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<LayoutStart />} />
           <Route path="*" element={<LayoutStart />} />
+          <Route path="/ExamProject" element={<ProjectMachineLearning />} />
           <Route path="/WebshopJava" element={<ProjectPageGarnGalore />} />
           <Route path="/ChatApp" element={<ProjectPageChatApp />} />
           <Route path="/DeveloperPortfolio" element={<ProjectPageDeveloperPortfolio />} />
