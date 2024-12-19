@@ -10,11 +10,18 @@ import iconPhotoPortfolio from '../assets/iconPhotoPortfolio.jpg'
 import iconSurfGame from '../assets/iconSurfGame.jpg'
 import iconSurfNotification from '../assets/iconSurfNotification.jpg'
 import iconChatApp from '../assets/iconChatApp.jpg'
+import iconML from '../assets/iconML.jpg'
 
 function ProjectsSection() {
 
     return (
         <section className={styles.wrapperProjects}>
+            <ProjectCards
+                name='Exam Project in Machine Learning'
+                iconImage={iconML}
+                description='This project aims to explore how machine learning works while applying Python skills and integrating them with Java and React.'
+                projectURL='/ExamProject'
+            />
             <ProjectCards
                 name='webshop with java backend'
                 iconImage={iconGarnGalore}
