@@ -32,7 +32,6 @@ const ProjectPageMachineLearning = () => {
                 <p>The system workflow begins in the frontend, where user input triggers a request. This request is sent to a Java server, which then forwards it to a Flask API. The API leverages a pre-trained machine learning model stored in a .joblib file to process the input and generate a prediction. The response is routed back through the Java server to the frontend client, where users can view the estimated air quality. The machine learning model is developed using Python, with tools such as Jupyter Notebooks, Pandas, NumPy, and SciKit Learn.</p>
                 <h4>data</h4>
                 <p>The data is gathered from Naturvårdsverket of particles called PM10, which have big impacts on health. The particles can consist of dust from construction, particles from tires, dust from roads and plant parts. </p>
-                <h4>ml process</h4>
                 <h4>technologies and frameworks</h4>
                 <ul style={{ listStyle: 'none' }}>
                     <li>
