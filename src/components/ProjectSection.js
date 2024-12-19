@@ -17,7 +17,7 @@ function ProjectsSection() {
     return (
         <section className={styles.wrapperProjects}>
             <ProjectCards
-                name='Exam Project in Machine Learning'
+                name='exam project in machine learning'
                 iconImage={iconML}
                 description='This project aims to explore how machine learning works while applying Python skills and integrating them with Java and React.'
                 projectURL='/ExamProject'
