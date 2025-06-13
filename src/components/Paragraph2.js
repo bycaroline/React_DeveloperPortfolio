@@ -6,10 +6,11 @@ function Paragraph2() {
     return (
         <div className={styles.wrapperParagraph2}>
             <div>
-                <p>I am currently enrolled in a two-year Java program at Campus Mölndal in Gothenburg. My portfolio showcases some of the projects I have worked on during my Java studies, as well as projects from my previous studies in frontend development.</p>
+                <p>I'm a developer with hands-on experience in machine learning, cloud integration, and full-stack development. My recent projects include an AI-powered air quality predictor for Stockholm (Python, React), a Spring Boot real estate platform deployed on AWS, and a surf notification service using SMHI API and MongoDB.
+</p>
             </div>
             <div>
-                <p>My Exam project aims to explore how machine learning works while applying Python skills and integrating them with Java and React. The outcome is a service that predicts and estimates air quality in specific areas of Stockholm's inner city. Another project is a webshop that I developed collaboratively with other students. During this project, we implemented the Scrum methodology and utilized version control. </p>
+                <p>In addition to my academic education in Software Development, where I focused on Java, Spring Boot, cloud integration, REST APIs, database management, CI/CD and agile teamwork, I also successfully completed a five-month internship working with Java and Spring Boot. </p>
 
             </div>
         </div>
